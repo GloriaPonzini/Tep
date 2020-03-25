@@ -2,6 +2,9 @@ public class Abbonamento {
 	//attributi
 	private String id_abbonamento;
 	private String tipologia;
+	public String getAttributi()
+{
+}
 
 	//default
 	public Abbonamento() {
