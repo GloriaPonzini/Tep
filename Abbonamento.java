@@ -1,8 +1,11 @@
 public class Abbonamento {
 	//attributi
 	private String id_abbonamento;
+
 	private int tipologia;
-	public String getAttributi()
+
+	public Float getAttributi()
+
 {
 }
 
@@ -25,6 +28,7 @@ public class Abbonamento {
 	}
 
 	public void setTipologia(int tipologia) {
+
 		this.tipologia = tipologia;
 	}
 
