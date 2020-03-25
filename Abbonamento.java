@@ -29,4 +29,6 @@ public class Abbonamento {
 		return "ID =" + id_abbonamento + ", Tipologia abbonamento =" + tipologia;
 	}
 	
+	//prova
+	
 }
