@@ -1,7 +1,7 @@
 public class Abbonamento {
 	//attributi
 	private String id_abbonamento;
-	private String tipologia;
+	private int tipologia;
 	public String getAttributi()
 {
 }
@@ -20,11 +20,11 @@ public class Abbonamento {
 		this.id_abbonamento = id_abbonamento;
 	}
 
-	public String getTipologia() {
+	public int getTipologia() {
 		return tipologia;
 	}
 
-	public void setTipologia(String tipologia) {
+	public void setTipologia(int tipologia) {
 		this.tipologia = tipologia;
 	}
 
