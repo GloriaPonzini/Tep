@@ -1,8 +1,8 @@
 import java.io.IOException;
 import java.util.Scanner;
-public class Main2 {
+public class Main {
 
-	public static void main(String args[]) throws IOException {
+	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		
 		//MENU'
@@ -38,7 +38,7 @@ public class Main2 {
 		f.addFermata();
 	}
 	
-
+	
 
 	
 	if(scelta !=0 && scelta!=1 ){
