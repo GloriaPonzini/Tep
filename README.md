@@ -14,3 +14,17 @@ A quel punto un eventuale controllore potrà, accedendo al sistema, controllare 
 Esiste un account Super Amministratore che può entrare nel sistema solo per aggiungere nuovi amministratori e nuovi controllori e creare i loro accessi.
 
 Dopo aver letto la traccia, l'abbiamo suddivisa in storie e per ogni storia abbiamo fatto delle attività.
+
+Per aprire un progetto in Eclipse bisogna:
+
+1. Aprire Eclipse
+2. File
+3. Import
+4. Existing Projects into Workspace
+5. Premendo su Browser seleziono la cartella che contiene il progetto
+6. Premo su Finish
+7. Sulla sinistra nel Package Explorer ci sarà la cartella con il mio progetto
+8. Doppio click sulla cartella
+9. Doppio click su src e default package
+10. Apro tutte le classi 
+11. Per far compilare il programma premo su Run e poi faccio Run As
